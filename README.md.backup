@@ -137,7 +137,7 @@ sys	0m0.012s
 
 Stop/shutdown WLS.
 
-Edit both the files and comment out Hotspot and uncomment GraalVM options to perform tests using GraalVM.
+Edit both the configuration files and comment out Hotspot and uncomment GraalVM options to perform tests using GraalVM.
 
 
 ```
