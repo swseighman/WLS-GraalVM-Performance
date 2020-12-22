@@ -127,7 +127,7 @@ Run the performance tests from the project directory:
 
 ```
 $ ./run-test.sh
-Testing with 20,000,000 (20 millions) iterations ...
+Testing with 20,000,000 (20 million) iterations ...
 
 Time taken to complete in milliseconds: 3086 ; and result is: 3000000000
 real	0m3.118s
@@ -149,7 +149,7 @@ Run the tests again.
 
 ```
 $ ./run-test.sh
-Testing with 20,000,000 (20 millions) iterations ...
+Testing with 20,000,000 (20 million) iterations ...
 
 Time taken to complete in milliseconds: 139 ; and result is: 3000000000
 real	0m0.150s
