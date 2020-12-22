@@ -135,6 +135,7 @@ user	0m0.005s
 sys	0m0.012s
 ```
 
+Stop/shutdown WLS.
 
 Edit both the files once again and comment Hotspot and uncomment GraalVM options to perform tests using GraalVM.
 
@@ -143,7 +144,10 @@ Edit both the files once again and comment Hotspot and uncomment GraalVM options
 <path to WLS>/user_projects/domains/base_domain/bin/setDomainEnv.cmd
 <path to WLS>/wls12214/oui/.globalEnv.properties
 ```
+Start the server again:
 
+`<path to WLS>/wls12214/user_projects/domains/base_domain/startWebLogic.sh
+`
 
 Run the tests again.  Once again, execute the script several times to warm-up the VM:
 
