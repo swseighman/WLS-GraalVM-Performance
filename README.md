@@ -89,7 +89,7 @@ fi
 
 ### Deploy the application on WebLogic Server
 
-Point your browser at: <code>[http://localhost:7001/console](http://localhost:7001/console)</code>
+Point your browser at: [http://localhost:7001/console](http://localhost:7001/console)
 
 Login and choose **‘Deployments’:**
 
