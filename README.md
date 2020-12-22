@@ -132,7 +132,7 @@ Testing with 20,000,000 (20 millions) iterations …
 Time taken to complete in milliseconds: 3086 ; and result is: 3000000000
 real	0m3.118s
 user	0m0.005s
-sys		0m0.012s
+sys	0m0.012s
 ```
 
 
