@@ -165,7 +165,7 @@ SHORTCUT_FOLDERS=Oracle FMW - 12.2.1.4.0
 SUN_JAVA_HOME="/Library/Java/JavaVirtualMachines/graalvm-ee-java8-20.3.0/Contents/Home"
 export SUN_JAVA_HOME
 
-DEFAULT_SUN_JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_271.jdk/Contents/Home" DEFAULT_SUN_JAVA_HOME="/Library/Java/JavaVirtualMachines/graalvm-ee-java8-20.3.0/Contents/Home"
+#DEFAULT_SUN_JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_271.jdk/Contents/Home" DEFAULT_SUN_JAVA_HOME="/Library/Java/JavaVirtualMachines/graalvm-ee-java8-20.3.0/Contents/Home"
 export DEFAULT_SUN_JAVA_HOME
 
 if [ "${SUN_JAVA_HOME}" = "" ] ; then

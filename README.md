@@ -45,7 +45,7 @@ _Uncomment/Comment `JAVA_HOME` to support the demo scenario._
 
 
 
-Also edit `<path to WLS>user_projects/domains/base_domain/bin/setDomainEnv.cmd` and add entries for Hotspot and GraalVM:
+Also edit `<path to WLS>/user_projects/domains/base_domain/bin/setDomainEnv.cmd` and add entries for Hotspot and GraalVM:
 
 
 ```
