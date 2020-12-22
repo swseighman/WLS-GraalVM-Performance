@@ -137,7 +137,7 @@ sys	0m0.012s
 
 Stop/shutdown WLS.
 
-Edit both the files once again and comment Hotspot and uncomment GraalVM options to perform tests using GraalVM.
+Edit both the configuration files and comment out Hotspot and uncomment GraalVM options to perform tests using GraalVM.
 
 
 ```
@@ -149,7 +149,8 @@ Start the server again:
 `<path to WLS>/wls12214/user_projects/domains/base_domain/startWebLogic.sh
 `
 
-Run the tests again.  Once again, execute the script several times to warm-up the VM:
+
+Repeat the tests.  Once again, execute the script several times to warm-up the VM:
 
 ```
 $ ./run-test.sh
