@@ -156,3 +156,5 @@ real	0m0.150s
 user	0m0.003s
 sys	0m0.005s
 ```
+
+By simply substituting the Hotspot VM with GraalVM, we realized a significant improvement in performance.
