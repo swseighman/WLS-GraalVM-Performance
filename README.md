@@ -122,7 +122,7 @@ Verify the deployment was successful:
 
 ![](images/Screenshot-1.png)
 
-Run the performance tests from the project directory:
+Run the performance tests from the project directory.  Execute the script several times to warm-up the VM:
 
 
 ```
@@ -145,7 +145,7 @@ Edit both the files once again and comment Hotspot and uncomment GraalVM options
 ```
 
 
-Run the tests again.
+Run the tests again.  Once again, execute the script several times to warm-up the VM:
 
 ```
 $ ./run-test.sh
