@@ -94,8 +94,6 @@ Point your browser at: <code>[http://localhost:7001/console](http://localhost:70
 Login and choose **‘Deployments’:**
 
 
-### 
-
 ![](images/Screenshot-2.png)
 
 
@@ -121,7 +119,7 @@ Choose **‘Finish’**:
 Verify the deployment was successful:
 
 
-![]()images/Screenshot-1.png)
+![](images/Screenshot-1.png)
 
 Run the performance tests from the project directory:
 

@@ -106,22 +106,22 @@ Choose **‘Install’**:
 
 Enter the path to the example application and click **‘Next’**:
 
-![](images/Screenshot-1.png)
+![](images/Screenshot-4.png)
 
 Choose **‘Next’**:
 
-![](images/Screenshot-1.png)
+![](images/Screenshot-5.png)
 
 
 Choose **‘Finish’**:
 
 
-![](images/Screenshot-1.png)
+![](images/Screenshot-6.png)
 
 Verify the deployment was successful:
 
 
-![]()images/Screenshot-1.png)
+![](images/Screenshot-1.png)
 
 Run the performance tests from the project directory:
 
