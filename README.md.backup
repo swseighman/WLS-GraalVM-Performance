@@ -14,7 +14,7 @@ Start the server:
 
 Clone this project: **[https://github.com/marthenlt/graalvm-weblogic-jaxrs-demo.git](https://github.com/marthenlt/graalvm-weblogic-jaxrs-demo.git)**
 
-
+C
 ```
 $ mvn package
 ```
