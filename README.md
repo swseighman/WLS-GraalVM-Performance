@@ -132,7 +132,7 @@ Testing with 20,000,000 (20 million) iterations ...
 Time taken to complete in milliseconds: 3086 ; and result is: 3000000000
 real	0m3.118s
 user	0m0.005s
-sys		0m0.012s
+sys	0m0.012s
 ```
 
 Stop/shutdown WLS.
@@ -212,7 +212,7 @@ Testing with 20,000,000 (20 million) iterations ...
 Time taken to complete in milliseconds: 139 ; and result is: 3000000000
 real	0m0.150s
 user	0m0.003s
-sys		0m0.005s
+sys	0m0.005s
 ```
 
 By simply substituting the Hotspot VM with GraalVM, we realized a significant improvement in performance.
